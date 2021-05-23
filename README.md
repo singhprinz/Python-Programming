@@ -1,7 +1,7 @@
-#![image](https://user-images.githubusercontent.com/83390756/119266457-8e69f100-bc08-11eb-97d8-b3fca6054242.png)
+# ![image](https://user-images.githubusercontent.com/83390756/119266457-8e69f100-bc08-11eb-97d8-b3fca6054242.png)
 
 
-# What is Python-Programming ?
+# What is Python-Programming ? 
 
 Python is an interpreted high-level general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
 
@@ -40,7 +40,7 @@ Main article: Python syntax and semantics § Indentation
 ![image](https://user-images.githubusercontent.com/83390756/119266611-1bad4580-bc09-11eb-8729-8071a3ba70be.png)
 
 
-Python's statements include (among others):
+### Python's statements include (among others):- 
 
     The assignment statement, using a single equals sign =.
     The if statement, which conditionally executes a block of code, along with else and elif (a contraction of else-if).
@@ -66,7 +66,7 @@ Methods on objects are functions attached to the object's class; the syntax inst
 
 ## Typing :- 
 
-The standard type hierarchy in Python 3
+### The standard type hierarchy in Python 3 :-
 
 Python uses duck typing and has typed objects but untyped variable names. Type constraints are not checked at compile time; rather, operations on an object may fail, signifying that the given object is not of a suitable type. Despite being dynamically-typed, Python is strongly-typed, forbidding operations that are not well-defined (for example, adding a number to a string) rather than silently attempting to make sense of them.
 
@@ -118,7 +118,7 @@ Pythons 3.10 deprecates wstr (to be removed in Python 3.12; meaning Python exten
 ![image](https://user-images.githubusercontent.com/83390756/119266656-4d261100-bc09-11eb-9740-3bd058dfa9a6.png)
 
 
-Main article: List of Python software
+### Main article: List of Python software :- 
 
 Since 2003, Python has consistently ranked in the top ten most popular programming languages in the TIOBE Programming Community Index where, as of February 2021, it is the third most popular language (behind Java, and C). It was selected Programming Language of the Year (for "the highest rise in ratings in a year") in 2007, 2010, 2018, and 2020 (the only language to do so four times.
 
@@ -146,7 +146,7 @@ LibreOffice includes Python, and intends to replace Java with Python. Its Python
 
 ## Languages influenced by Python :- 
 
-Python's design and philosophy have influenced many other programming languages:
+### Python's design and philosophy have influenced many other programming languages:- 
 
     Boo uses indentation, a similar syntax, and a similar object model.
     Cobra uses indentation and a similar syntax, and its Acknowledgements document lists Python first among languages that influenced it.
